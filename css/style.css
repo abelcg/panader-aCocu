@@ -1,0 +1,18 @@
+.styleNavBg{
+    background: #343a40;
+}
+
+.styleFooterBg{
+    background: #343a40!Important;
+}
+
+@media all and (max-width: 576px){
+    .slider-responsive{
+        height: 250px;
+        object-fit: cover;
+    }
+
+    .centrado{
+        text-align: center;
+    }
+}
